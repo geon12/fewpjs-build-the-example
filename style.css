@@ -39,6 +39,10 @@ article.media-post > footer ul {
   list-style-type: none;
 }
 
+.activated-heart {
+  color: red;
+}
+
 #modal {
   border-radius: 10px;
   background-color: maroon;
